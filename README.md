@@ -17,8 +17,6 @@ to identify adoption patterns, geographical opportunities, and key manufacturer 
 - `data/` → Datasets (EV adoption, sales, fuel types, geography, etc.)
 - `notebooks/` → Jupyter notebooks for analysis
 - `streamlit_app/` → Streamlit dashboard for visualization
-- `reports/` → PDF reports & insights
-- `images/` → Visualizations & charts
 - `README.md` → Project overview
 
 ---
